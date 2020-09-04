@@ -41,3 +41,4 @@ func main() {
 	person1.getMarried("John")
 	fmt.Println(person1.greet())
 }
+
