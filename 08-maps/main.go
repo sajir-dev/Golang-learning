@@ -21,3 +21,4 @@ func main() {
 	delete(emails, "Bob")
 	fmt.Println(emails)
 }
+
