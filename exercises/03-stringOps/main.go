@@ -125,3 +125,4 @@ func main() {
 	fmt.Println(removeSpace("abc   def"))
 	fmt.Println(addChar("pekaboo", "a", "b"))
 }
+
