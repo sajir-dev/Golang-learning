@@ -12,4 +12,3 @@ func main() {
 	fmt.Println(math.Sqrt(64))
 	fmt.Println(strutil.Reverse("hello"))
 }
-
